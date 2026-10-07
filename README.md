@@ -2,41 +2,109 @@
 
 ### Data Engineer | AI Engineer | Software Engineer
 
-I build production-oriented systems across backend engineering, real-time data platforms,
-cloud infrastructure, Kubernetes, Kafka, and applied AI.
+I build production-oriented data and AI systems using Python, SQL, Spark, Kafka, cloud platforms, APIs, and modern AI frameworks.
+
+My work spans real-time data engineering, cloud data platforms, backend development, analytics engineering, and applied AI systems such as RAG and agentic workflows.
+
+---
 
 ## Featured Projects
 
-### Agentic AI Operations Copilot
-AI operations assistant for incident analysis and operational workflows.
+### [Real-Time CDC E-Commerce Platform](https://github.com/Rishika73/realtime-cdc-ecommerce)
 
-### Real-Time CDC E-Commerce Platform
-PostgreSQL → Debezium → Kafka → Spark → Apache Iceberg → dbt
+Real-time Change Data Capture platform using PostgreSQL, Debezium, Kafka, Spark Structured Streaming, Apache Iceberg, dbt, and Airflow.
 
-### Enterprise Customer Revenue Platform
-Snowflake • dbt • Airflow • AWS • Tableau
+**Highlights:** CDC pipelines · Event streaming · Iceberg MERGE · Data quality · dbt · Airflow
 
-### Databricks Retail Lakehouse
-Databricks • PySpark • SQL • Medallion Architecture
+---
+
+### [Agentic AI Operations Copilot](https://github.com/Rishika73/agentic-ai-operations-copilot)
+
+Multi-agent AI operations system for incident analysis, account-risk workflows, and enterprise knowledge retrieval.
+
+**Highlights:** LangGraph · RAG · MCP · Tool calling · FastAPI · Memory · Human-in-the-loop
+
+**Live API:** [agentic-ai-operations-copilot.onrender.com](https://agentic-ai-operations-copilot.onrender.com)
+
+---
+
+### [Enterprise Customer Revenue Platform](https://github.com/Rishika73/enterprise-customer-revenue-platform)
+
+End-to-end customer revenue and risk analytics platform built around a layered Snowflake data warehouse.
+
+**Highlights:** Snowflake · dbt · Airflow · AWS · SQL · Tableau · SCD Type 2
+
+**Dashboard:** [View Tableau Dashboard](https://public.tableau.com/app/profile/rishika.reddy.thumma/viz/CustomerRevenueRiskDashboard/Dashboard1)
+
+---
+
+### [Enterprise AI Knowledge Agent](https://github.com/Rishika73/enterprise-ai-knowledge-agent)
+
+Production-oriented enterprise knowledge assistant using retrieval-augmented generation and source-grounded responses.
+
+**Highlights:** RAG · LangGraph · FastAPI · Hybrid retrieval · Vector search · Reranking · Evaluation
+
+---
+
+### [Databricks Retail Lakehouse](https://github.com/Rishika73/databricks-retail-lakehouse)
+
+End-to-end retail analytics lakehouse following a Bronze → Silver → Gold architecture.
+
+**Highlights:** Databricks · PySpark · Delta Lake · Unity Catalog · Databricks Jobs · Databricks SQL
+
+---
+
+### [AI Image Captioning System](https://github.com/Rishika73/ai-image-captioning-system)
+
+Deep learning image-captioning system comparing multiple neural-network architectures using Flickr30k and BLEU evaluation.
+
+**Highlights:** TensorFlow · Keras · CNN · LSTM · GRU · Bidirectional LSTM · Transformer
+
+---
 
 ## Tech Stack
 
-**Languages:** Python, Java, SQL, TypeScript
+**Languages**  
+Python · Java · SQL · TypeScript
 
-**Data:** Kafka, Spark, Airflow, dbt, Snowflake, Databricks, Iceberg
+**Data Engineering**  
+Apache Kafka · Apache Spark · PySpark · Airflow · dbt · Apache Iceberg · Debezium
 
-**Backend:** FastAPI, Spring Boot, REST APIs
+**Cloud & Data Platforms**  
+AWS · Snowflake · Databricks · Delta Lake · Unity Catalog
 
-**Cloud & DevOps:** AWS, Kubernetes, Docker, Terraform, GitHub Actions, Jenkins, Argo CD
+**AI & Machine Learning**  
+TensorFlow · Keras · LangGraph · RAG · LLMs · Vector Search · NLP · Computer Vision
 
-**Databases:** PostgreSQL, MySQL, Redis, DynamoDB, MongoDB
+**Backend**  
+FastAPI · Spring Boot · REST APIs
 
-**AI/ML:** PyTorch, Hugging Face, LangChain, RAG
+**Databases**  
+PostgreSQL · MySQL · Redis · DynamoDB · MongoDB
 
-## Current Focus
+**DevOps & Infrastructure**  
+Docker · Kubernetes · OpenShift · Terraform · GitHub Actions · Jenkins · Argo CD
 
-- Distributed systems
-- Kafka and streaming
-- Kubernetes and OpenShift
-- Production data engineering
-- Agentic AI systems
+**Analytics**  
+Tableau · Databricks SQL
+
+---
+
+## What I'm Focused On
+
+- Building scalable batch and real-time data pipelines
+- Streaming systems with Kafka and Spark
+- Modern lakehouse and cloud data architectures
+- Production-oriented RAG and agentic AI applications
+- Reliable APIs and backend services
+- Data quality, orchestration, testing, and automation
+
+---
+
+## Areas of Interest
+
+`Data Engineering` · `AI Engineering` · `Distributed Systems` · `Streaming` · `Cloud Data Platforms` · `Backend Engineering` · `Generative AI`
+
+---
+
+Explore my pinned repositories below for architecture diagrams, implementation details, demos, and project results.
