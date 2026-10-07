@@ -8,6 +8,14 @@ My work spans real-time data engineering, cloud data platforms, backend developm
 
 ---
 
+## Selected Work
+
+- **Real-Time Data Engineering:** PostgreSQL → Debezium → Kafka → Spark Structured Streaming → Apache Iceberg, orchestrated with Airflow
+- **Agentic AI:** Multi-agent LangGraph system with RAG, MCP, persistent workflow state, and human-in-the-loop approvals — [Live Swagger API](https://agentic-ai-operations-copilot.onrender.com/docs)
+- **Cloud Analytics:** Snowflake + dbt + Airflow customer analytics platform — [Live Tableau Dashboard](https://public.tableau.com/app/profile/rishika.reddy.thumma/viz/CustomerRevenueRiskDashboard/Dashboard1)
+
+---
+
 ## Featured Projects
 
 ### [Real-Time CDC E-Commerce Platform](https://github.com/Rishika73/realtime-cdc-ecommerce)
