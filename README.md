@@ -24,7 +24,7 @@ Multi-agent AI operations system for incident analysis, account-risk workflows, 
 
 **Highlights:** LangGraph · RAG · MCP · Tool calling · FastAPI · Memory · Human-in-the-loop
 
-**Live API:** [agentic-ai-operations-copilot.onrender.com](https://agentic-ai-operations-copilot.onrender.com)
+**Live API Docs:** [Open Swagger UI](https://agentic-ai-operations-copilot.onrender.com/docs)
 
 ---
 
