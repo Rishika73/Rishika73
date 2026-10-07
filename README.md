@@ -1,6 +1,6 @@
 # Hi, I'm Rishika 👋
 
-### Software Engineer | Data Engineer | Platform & Cloud Engineer
+### Data Engineer | AI Engineer | Software Engineer
 
 I build production-oriented systems across backend engineering, real-time data platforms,
 cloud infrastructure, Kubernetes, Kafka, and applied AI.
