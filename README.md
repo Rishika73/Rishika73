@@ -1,6 +1,6 @@
 # Hi, I'm Rishika 👋
 
-### Data Engineer | AI Engineer | Software Engineer
+###  Software Engineer
 
 I build production-oriented data and AI systems using Python, SQL, Spark, Kafka, cloud platforms, APIs, and modern AI frameworks.
 
