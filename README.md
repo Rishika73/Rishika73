@@ -2,6 +2,8 @@
 
 ###  Data Engineer
 
+Open to Data Engineer roles.
+
 I build production-oriented data and AI systems using Python, SQL, Spark, Kafka, cloud platforms, APIs, and modern AI frameworks.
 
 My work spans real-time data engineering, cloud data platforms, backend development, analytics engineering, and applied AI systems such as RAG and agentic workflows.
@@ -17,6 +19,7 @@ My work spans real-time data engineering, cloud data platforms, backend developm
 ---
 
 ## Featured Projects
+
 
 ### [Real-Time CDC E-Commerce Platform](https://github.com/Rishika73/realtime-cdc-ecommerce)
 
